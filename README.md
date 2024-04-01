@@ -1,2 +1,3 @@
-# tic_tac_toe
-Tic tac toe from react.dev Tutorial
+# Tic Tac Toe game
+
+Tic tac toe from [react.dev Tutorial](https://react.dev/learn/tutorial-tic-tac-toe).
